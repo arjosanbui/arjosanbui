@@ -1,6 +1,6 @@
 # Arjo Sanbui
 
-**'Junior Web Developer, AI Engineer'**
+```Junior Web Developer, AI Engineer```
 
 I'm a high-school student passionate about computer science, creative problem-solving, and building things that make life more efficient (or just more fun). I love learning new technologies and constantly challenging myself with new projects.
 
@@ -13,3 +13,6 @@ I'm a high-school student passionate about computer science, creative problem-so
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#
+![Arjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjosanbui&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjosanbui&theme=tokyonight)](https://git.io/streak-stats)
