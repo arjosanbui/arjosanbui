@@ -15,7 +15,7 @@ I'm a high-school student passionate about computer science, creative problem-so
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@ I'm a high-school student passionate about computer science, creative problem-so
 #
 
 <details open>
-  <summary><h3> 🚀 Arjo's Programming Journey</h3></summary>
+  <summary><h2> 🚀 Arjo's Programming Journey</h3></summary>
   I started my coding journey when I was about 8 years old. I began with basic HTML, and over time, learned to use JavaScript and CSS for backend development and styling. Gradually, I developed an interest in App Development and took a course a IOS App Development with Swift. As I continued the path of App Development, I decided to take on Python, a language that I would grow to become proficient in and utilize for almost all my projects. Recently, I have started learning about AI Development and Machine Learning. I now focus on building large scale real world applications that can be of real use in the future. 
 </details>
 
