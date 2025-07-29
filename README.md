@@ -30,7 +30,7 @@ I'm a high-school student passionate about computer science, creative problem-so
 #
 
 <details open>
-  <summary><h3>Arjo's Programming Journey</h3></summary>
+  <summary><h3> 🚀 Arjo's Programming Journey</h3></summary>
   I started my coding journey when I was about 8 years old. I began with basic HTML, and over time, learned to use JavaScript and CSS for backend development and styling. Gradually, I developed an interest in App Development and took a course a IOS App Development with Swift. As I continued the path of App Development, I decided to take on Python, a language that I would grow to become proficient in and utilize for almost all my projects. Recently, I have started learning about AI Development and Machine Learning. I now focus on building large scale real world applications that can be of real use in the future. 
 </details>
 
