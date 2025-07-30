@@ -7,7 +7,7 @@ I'm a high-school student passionate about computer science, creative problem-so
 ## 🧠 About Me
 - 🎓 High school student exploring the world of computer science
 - 💻 Languages I know: Python, Swift, HTML, CSS, JavaScript
-- 🛠️ Currently learning: React, data structures, and algorithms
+- 🛠️ Currently learning: Artificial intelligence, data structures, and algorithms
 - 🧪 Interests: Web & app development, AI, and competitive programming
 - 🚀 Future goal: Study CS at MIT and build tech that helps people
 
